@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Rangga Kusumah</h1>
-<h3 align="center">A software developer from Indonesia</h3>
+//<h3 align="center">A software developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
