@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Rangga Kusumah</h1>
+<h1 align="center">Hello there, I'm Rangga Kusumah</h1>
 
 - 🌱 I’m currently learning **Web Development**
 
