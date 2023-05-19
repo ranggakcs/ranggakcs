@@ -3,8 +3,7 @@
 I am a developer from Indonesia. Interested in web and data development.
 
 Apart from programming, I also often spend my time climbing mountains and doing photography.
-
-Duis eget interdum enim, nec interdum est. Etiam eu mi gravida, tincidunt augue a, laoreet leo. Sed mollis, mi eu sollicitudin faucibus, leo velit euismod dolor, a dapibus orci arcu a arcu. Aliquam vestibulum mollis gravida. Mauris nunc nulla, rhoncus vitae orci vel, congue efficitur massa. 
+ 
 
 ---
 
