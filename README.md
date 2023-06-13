@@ -22,7 +22,6 @@ Apart from programming, I also often spend my time climbing mountains and doing 
 ---
 ### Tools and language
 
-![N|Solid](https://img.shields.io/badge/%20-%20Figma-black?style=flat&logo=figma)
 ![N|Solid](https://img.shields.io/badge/%20-%20Illustrator-black?style=flat&logo=adobe)
 ![N|Solid](https://img.shields.io/badge/%20-%20HTML-white?style=flat&logo=HTML5)
 ![N|Solid](https://img.shields.io/badge/%20-%20CSS-blue?style=flat&logo=CSS3)
