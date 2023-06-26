@@ -16,7 +16,7 @@ Apart from programming, I also often spend my time climbing mountains and doing 
 ### Design and data things
 
 [![N|Solid](https://img.shields.io/badge/%20-%20Dribbble-white?style=flat&logo=dribbble)](https://dribbble.com/ranggakcs)
-[![N|Solid](https://img.shields.io/badge/%20-%20Behance-navy?style=flat&logo=behance)](https://www.behance.net/ranggakusud14f)
+[![N|Solid](https://img.shields.io/badge/%20-%20Behance-navy?style=flat&logo=behance)](https://www.behance.net/ranggakcs)
 [![N|Solid](https://img.shields.io/badge/%20-%20Kaggle-white?style=flat&logo=kaggle)](https://www.kaggle.com/ranggakusumah)
 
 ---
