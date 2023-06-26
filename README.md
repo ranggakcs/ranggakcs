@@ -10,7 +10,7 @@ Apart from programming, I also often spend my time climbing mountains and doing 
 ### Blog and social media
 
 [![N|Solid](https://img.shields.io/badge/%20-%20Twitter-white?style=flat&logo=twitter)](https://twitter.com/ranggakcs) 
-[![N|Solid](https://img.shields.io/badge/%20-%20medium-black?style=flat&logo=medium)](https://medium.com/@ranggakusumah) 
+[![N|Solid](https://img.shields.io/badge/%20-%20medium-black?style=flat&logo=medium)](https://medium.com/@ranggakcs) 
 
 ---
 ### Design and data things
