@@ -1,6 +1,6 @@
 ## HEY THERE, RANGGA IS HERE
 
-I am a developer from Indonesia. Interested in web and data development.
+Interested in web and data development.
 
 Apart from programming, I also often spend my time climbing mountains and doing photography.
 
