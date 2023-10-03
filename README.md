@@ -31,5 +31,5 @@ Apart from programming, I also often spend my time climbing mountains and doing 
 
 ---
 
-
+[![An image of @ranggakcs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ranggakcs)](https://holopin.io/@ranggakcs)
 
