@@ -29,4 +29,4 @@ Apart from programming, I also often spend my time climbing mountains and doing 
 ![N|Solid](https://img.shields.io/badge/%20-%20Python-black?style=flat&logo=python)
 ![N|Solid](https://img.shields.io/badge/%20-%20PHP-black?style=flat&logo=php)
 
----
+
