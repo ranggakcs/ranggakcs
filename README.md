@@ -30,5 +30,3 @@ Apart from programming, I also often spend my time climbing mountains and doing 
 ![N|Solid](https://img.shields.io/badge/%20-%20PHP-black?style=flat&logo=php)
 
 ---
-
-[![An image of @ranggakcs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ranggakcs)](https://holopin.io/@ranggakcs)
