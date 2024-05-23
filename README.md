@@ -1,8 +1,6 @@
 ## HEY THERE, RANGGA IS HERE
 
-Interested in web and data development.
-
-Apart from programming, I also often spend my time climbing mountains and doing photography.
+Apart from programming, I also often spend my time doing outdoors activity and photography.
 
 
 ---
